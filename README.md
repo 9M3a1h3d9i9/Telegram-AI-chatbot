@@ -11,3 +11,6 @@ and describe the data.
 (c) Select a defined deep NLP model and train your model with the
 downloaded dataset.
 (d) Analyze the accuracy of your model completely
+
+
+This project was presented to Dr. Amir Hossein Tabatabai on 01/26/2023.
